@@ -5,17 +5,17 @@ How I Built Refund Processing Using AI Agents
 
 Full Article : https://medium.com/@learn-simplified/how-i-built-a-simple-semantic-search-engine-all-ai-all-local-68c4db4f6986
 
-Ever wondered how companies like Google or Amazon make their search engines so smart? Well, I've been tinkering with something similar, and I'm excited to share my journey with you. In this article, I'll walk you through how I built a powerful search engine using artificial intelligence. Don't worry if you're not a tech wizard - I'll keep things simple and fun!
+I'm excited to share with you how I built a comprehensive refund processing system using artificial intelligence (AI) agents. This article will take you on a journey of how AI Agents tackled the task of refund handling, from the initial planning to the final implementation.
+While I chose one of real world use case, same approach, design can be used to any real world application.
 
 ## What's This Project About?
 
-This article is all about creating a smart search engine from scratch. I'll show you how I used various AI techniques to make a search engine that doesn't just look for exact word matches, but actually understands the meaning behind your searches. 
-We'll explore how I set up the backend system to process and index data, how I created a user-friendly web interface, and how I made sure the whole thing runs smoothly and quickly. You'll get a behind-the-scenes look at the tools and technologies I used, from machine learning models that understand language to databases that can search through millions of items in a split second.
+In this article, I'll walk you through the process of creating a refund processing system that leverages AI Agents to streamline the customer experience. I'll cover the key components, such as setting up a conversational workflow, integrating language models, and designing a simulated user interaction. The goal is to showcase how AI can be applied to enhance traditional business processes, in this case, the often tedious task of managing customer refunds.
 
 ## Why Use This Project?
 
-Companies that know how to leverage AI are racing ahead of their competitors. This article shows you, through the lens of a fictional company, how AI can be applied to create a powerful search tool. Whether you're a business owner, a tech enthusiast, or just curious about AI, understanding how these systems work can give you valuable insights. You'll see how AI can improve user experience, handle large amounts of data efficiently, and provide more accurate results. 
-This knowledge could inspire you to implement similar solutions in your own projects or business, potentially revolutionizing how you handle information and serve your customers.
+The ability to provide efficient and personalized customer service is crucial. AI-driven solutions are transforming the way companies interact with their customers, and this article will demonstrate how you can harness the power of AI to revolutionize your refund processing system.
+By reading this article, you'll gain insights into the practical implementation of AI agents and understand how they can be used to improve customer satisfaction, reduce operational costs, and enhance the overall efficiency of your refund management processes. This article is particularly relevant for businesses that deal with a high volume of refund requests and are looking to optimize their customer experience.
 
 ## Architecture
 ![Design Diagram](design_docs/design.png)

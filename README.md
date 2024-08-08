@@ -21,7 +21,7 @@ By reading this article, you'll gain insights into the practical implementation 
 ![Design Diagram](design_docs/design.png)
 
 
-# Tutorial: Setting Up and Running an AI-Powered Legal Case Discovery Application
+# Tutorial: Setting Up and Running AI Agent Powered Refund Processing System
 
 ## Prerequisites
 - Python installed on your system.
@@ -56,9 +56,9 @@ By reading this article, you'll gain insights into the practical implementation 
      pip install -r requirements.txt
      ```
 
-3. **Run Build AI-Powered Legal Case Discovery for Attorneys Application**
+3. **Run - AI Agent Powered Refund Processing System**
 
-   Finally, execute the following command to start the "Build AI-Powered Legal Case Discovery for Attorneys" application:
+   Finally, execute the following command to start the "AI Agent Powered Refund Processing System" application:
 
    ```bash 
    # generate synthetic cases of our Law Firm

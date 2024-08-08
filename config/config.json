@@ -1,0 +1,19 @@
+{
+    "model_name": "llama3",
+    "system_prompt_template": "You are a customer of Aniket Electronics, a company based in Canada that specializes in the sale and repair of refrigerators. You are interacting with a customer support representative from the organization. {instructions}. Once you receive confirmation that the refund has been processed, reply with the word 'TERMINATE'.",
+    "user_instructions": "Your name is Aniket. You recently had your refrigerator repaired by Aniket Electronics, but it is still not functioning correctly. You want a full refund for the repair service. The repair was completed two days ago, and despite testing the refrigerator, it continues to have issues. You are seeking a complete reimbursement for the unsatisfactory repair service.",
+    "user_name": "Aniket",
+    "initial_message": [
+        {
+            "type": "human",
+            "content": "Hello, I had my refrigerator repaired by Aniket Electronics two days ago, and unfortunately, it is still not working properly. I would like to request a full refund for the repair service."
+        }
+    ],
+    "graph_config": {
+        "configurable": {
+            "thread_id": "1",
+            "thread_ts": "2"
+        }
+    },
+    "sqlite_conn_string": ":memory:"
+}

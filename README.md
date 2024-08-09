@@ -1,5 +1,5 @@
-# How_I_Built_Refund_Processing_Using_AI_Agents
-How I Built Refund Processing Using AI Agents
+# How_I_Built_Refund_Processing_Using_AI_Agents_From_Scratch
+How I Built Refund Processing Using AI Agents, From Scratch, All AI, All Local
 
 ## Introduction
 

@@ -3,7 +3,7 @@ How I Built Refund Processing Using AI Agents
 
 ## Introduction
 
-Full Article : https://medium.com/@learn-simplified/how-i-built-a-simple-semantic-search-engine-all-ai-all-local-68c4db4f6986
+Full Article : [https://medium.com/@learn-simplified/how-i-built-refund-processing-system-using-ai-agents-from-scratch-7702a998a0c7
 
 I'm excited to share with you how I built a comprehensive refund processing system using artificial intelligence (AI) agents. This article will take you on a journey of how AI Agents tackled the task of refund handling, from the initial planning to the final implementation.
 While I chose one of real world use case, same approach, design can be used to any real world application.
